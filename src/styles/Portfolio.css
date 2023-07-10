@@ -2,3 +2,45 @@
     color: #569fef;
     text-align: center;
 }
+
+.project div{
+    font-size: 20px;
+    text-align: center;
+}
+
+.project{
+    max-width: 450px;
+    max-height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    max-height: 300px;
+    border: 5px solid gold;
+    border-radius: 22px;
+    margin-top: 20px;
+    outline: 2px solid;
+}
+
+.project a img:hover{
+    opacity: .5;
+    transition: .3s ease-in-out;
+}
+
+.projectDescription{
+    text-align: center;
+    font-size: 20px;
+    border: 5px solid gold;
+    border-radius: 22px;
+    margin-top: 20px;
+    padding: 24px;
+    outline: 2px solid;
+    background-color: #569fef;
+    margin: 30px auto;
+}

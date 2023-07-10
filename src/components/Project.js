@@ -2,9 +2,12 @@ import React from 'react';
 
 export default function Project(props) {
   return (
-    <div>
+    <div className='project'>
       <div>{props.name}</div>
-      <img src={props.src} href={props.link} alt='projectPhoto'></img>
+      <a href={props.link}>
+        <img src={props.src} href={props.link} alt='projectPhoto'>
+        </img> 
+      </a>
     </div>
   );
 }

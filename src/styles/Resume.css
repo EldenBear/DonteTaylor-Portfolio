@@ -8,6 +8,10 @@
     padding-bottom: 25px;
 }
 
+.resumeIcon:hover{
+    filter: invert(69%) sepia(69%) saturate(503%) hue-rotate(352deg) brightness(98%) contrast(103%);
+}
+
 .resumeList{
     margin-top: 35px;
 }

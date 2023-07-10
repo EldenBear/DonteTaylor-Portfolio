@@ -13,12 +13,12 @@
     width: 500px;
     margin-left: 25px;
     border: 2px solid;
-    background: aqua;
+    background: #569fef;
 }
 
 #submitButton{
     margin-left: 250px;
-    border: 5px solid aqua;
+    border: 5px solid gold;
     background: #569fef;
     border-radius: 20px;
 }
