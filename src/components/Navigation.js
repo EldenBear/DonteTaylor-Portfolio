@@ -6,7 +6,7 @@ function Navigation({ currentPage, handlePageChange }) {
   return (
     <div className='headerDiv'>
       <p className='myName'>LaDonte B. Taylor</p>
-    <ul className="nav navigation-links" >
+    <ul className="navigation-links" >
       <li className="nav-item">
         <a
           href="#about"

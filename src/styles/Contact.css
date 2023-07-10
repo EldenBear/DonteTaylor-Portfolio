@@ -1,0 +1,32 @@
+#contactText{
+    color: #569fef;
+    text-align: center;
+}
+
+#contact-form{
+    margin: 0 auto;
+    max-width: 90%;
+    padding: 120px 120px;
+}
+
+#nameInput, #emailInput, #messageInput{
+    width: 500px;
+    margin-left: 25px;
+    border: 2px solid;
+    background: aqua;
+}
+
+#submitButton{
+    margin-left: 250px;
+    border: 5px solid aqua;
+    background: #569fef;
+    border-radius: 20px;
+}
+
+#submitButton:hover{
+    color: gold;
+}
+
+.contact-text{
+    font-size: 24px;
+}
