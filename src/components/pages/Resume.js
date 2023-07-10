@@ -3,8 +3,8 @@ import '../../styles/Resume.css';
 
 export default function Resume() {
   return (
-    <div>
-      <h1>Resume</h1>
+    <div className='body'>
+      <h1 id='resumeText'>Resume</h1>
     </div>
   );
 }

@@ -3,8 +3,8 @@ import '../../styles/Contact.css';
 
 export default function Contact() {
   return (
-    <div>
-      <h1>Contact Page</h1>
+    <div className='body'>
+      <h1 id='contactText'>Contact Page</h1>
       <form id="contact-form">
         <div>
           <label for="Name">Name:</label>

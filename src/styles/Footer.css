@@ -1,0 +1,22 @@
+.logo{
+    width: 75px;
+    height: 75px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+.logo:hover{
+    filter: invert(69%) sepia(69%) saturate(503%) hue-rotate(352deg) brightness(98%) contrast(103%);
+}
+
+.footer{
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.footer-image-container{
+    padding: 20px;
+}

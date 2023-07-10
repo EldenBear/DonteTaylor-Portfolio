@@ -1,0 +1,38 @@
+.navigation-links{
+    color: #569fef;
+    display: inline-flex;
+    justify-content: right;
+}
+.myName{
+    display: inline-flex;
+    font-size: 50px;
+    text-align: center;
+    color: gold;
+}
+
+.headerDiv{
+    border-bottom: 10px solid gold;
+    border-bottom-style: double ;
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.nav-item{
+    color: #569fef;
+    height: min-content;
+    margin-top: auto;
+    font-size: 20px;
+    width: 150px;
+}
+
+.nav-item a:hover{
+    color: gold;
+}
+
+#root{
+    background: #f9f9f9;
+    background-image: url("../../public/BackgroundPort.webp");
+    background-size: cover;
+    background-position-x: center;
+}

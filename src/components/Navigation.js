@@ -1,9 +1,12 @@
 import React from 'react';
+import '../styles/Header.css';
 
 
 function Navigation({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+    <div className='headerDiv'>
+      <p className='myName'>LaDonte B. Taylor</p>
+    <ul className="nav navigation-links" >
       <li className="nav-item">
         <a
           href="#about"
@@ -41,6 +44,7 @@ function Navigation({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
+    </div>
   );
 }
 
