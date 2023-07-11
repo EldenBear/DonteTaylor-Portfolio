@@ -37,3 +37,25 @@
     background-size: cover;
     background-position-x: center;
 }
+
+@media screen and (max-width: 825px){
+    .nav-item{
+        width: 110px;
+        font-size: 14px;
+    }
+
+    .myName{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .nav-item{
+        width: 85px;
+        font-size: 14px;
+    }
+
+    .myName{
+        font-size: 16px;
+    }
+}

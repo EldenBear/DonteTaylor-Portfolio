@@ -34,3 +34,32 @@
 .body{
     min-height: calc(100vh - 125px - 96px);
 }
+
+@media screen and (max-width: 825px){
+    #selfie{
+        height: 300px;
+    }
+
+    #aboutInfo{
+        font-size: 16px;
+    }
+
+    .body{
+        min-height: calc(100vh - 80px - 69px);
+    }
+}
+
+@media screen and (max-width: 560px){
+    #selfie{
+        height: 200px;
+    }
+
+    #aboutInfo{
+        font-size: 14px;
+        width: 90%;
+    }
+
+    .body{
+        min-height: calc(100vh - 80px - 45px);
+    }
+}

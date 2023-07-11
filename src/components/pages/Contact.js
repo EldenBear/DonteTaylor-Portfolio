@@ -53,7 +53,7 @@ export default function Contact() {
   }
 
   return (
-    <div className="body">
+    <div className="body contactFormInput">
       <h1 id="contactText">Contact Me</h1>
       <form id="contact-form">
         <div>

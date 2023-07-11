@@ -20,3 +20,17 @@
 .footer-image-container{
     padding: 20px;
 }
+
+@media screen and (max-width: 825px){
+    .logo{
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media screen and (max-width: 560px){
+    .logo{
+        width: 30px;
+        height: 30px;
+    }
+}
