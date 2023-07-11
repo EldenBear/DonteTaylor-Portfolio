@@ -6,7 +6,7 @@ export default function Resume() {
     <div className="body">
       <h1 id="resumeText">Resume</h1>
       <p>Click on icon to download my resume </p>
-      <a href="../../LaDonteTaylorResume.docx (1).pdf" download>
+      <a href={require("../../images/LaDonteTaylorResume.docx (1).pdf")} download>
         <img
           src={require("../../images/cv.png")}
           alt="resumePicture"
