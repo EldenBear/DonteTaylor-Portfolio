@@ -8,7 +8,7 @@ export default function Portfolio() {
       <h1 id="portfolioText">Portfolio</h1>
       <Project
         name={"JabberWocky"}
-        src={"../../../JWwelcome.png"}
+        src={require("../../images/JWwelcome.png")}
         link={"https://boiling-mountain-88128.herokuapp.com/"}
         githubLink={"https://github.com/mmoghal/jabberwocky"}
         description={
@@ -18,7 +18,7 @@ export default function Portfolio() {
 
       <Project
         name={"Watch Party"}
-        src={"../../../WPScreenshot.png"}
+        src={require("../../images/WPScreenshot.png")}
         link={"https://santos-al.github.io/Watch-Party/"}
         githubLink={"https://github.com/santos-al/Watch-Party"}
         description={
@@ -28,7 +28,7 @@ export default function Portfolio() {
 
       <Project
         name={"Weather App"}
-        src={"../../../Weather-App-SS.png"}
+        src={require("../../images/Weather-App-SS.png")}
         link={"https://eldenbear.github.io/Weather-Application/"}
         githubLink={"https://github.com/EldenBear/Weather-Application"}
         description={
@@ -38,7 +38,7 @@ export default function Portfolio() {
 
       <Project
         name={"Tech-Blog"}
-        src={"../../../tech-blogSC2.png"}
+        src={require("../../images/tech-blogSC2.png")}
         link={"https://tech-blog-rbc.herokuapp.com/"}
         githubLink={"https://github.com/EldenBear/Tech-Blog"}
         description={
@@ -48,7 +48,7 @@ export default function Portfolio() {
 
       <Project
         name={"Password Generator"}
-        src={"../../../PWgen-SS.png"}
+        src={require("../../images/PWgen-SS.png")}
         link={"https://eldenbear.github.io/Password-Generator-RBC/"}
         githubLink={"https://github.com/EldenBear/Password-Generator-RBC"}
         description={
@@ -58,7 +58,7 @@ export default function Portfolio() {
 
       <Project
         name={"JavaScript Quiz"}
-        src={"../../../NewQuizScreenshot.png"}
+        src={require("../../images/NewQuizScreenshot.png")}
         link={"https://eldenbear.github.io/JavaScript-Quiz-RBC/"}
         githubLink={"https://github.com/EldenBear/JavaScript-Quiz-RBC"}
         description={

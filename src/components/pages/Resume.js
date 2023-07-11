@@ -8,7 +8,7 @@ export default function Resume() {
       <p>Click on icon to download my resume </p>
       <a href="../../LaDonteTaylorResume.docx (1).pdf" download>
         <img
-          src="../../cv.png"
+          src={require("../../images/cv.png")}
           alt="resumePicture"
           className="resumeIcon"
         ></img>

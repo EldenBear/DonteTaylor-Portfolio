@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="body">
       <h1 id="aboutText">About Me</h1>
-      <img src="../../prof-pic1_thumbnail.png" alt="selfie" id="selfie"></img>
+      <img src= {require("../../images/prof-pic1_thumbnail.png")} alt="selfie" id="selfie"></img>
       <p id="aboutInfo">
         My name is LaDonte Taylor and I'm a full stack web developer currently
         studying at Rutgers Bootcamp. I plan on earning my certificate in August

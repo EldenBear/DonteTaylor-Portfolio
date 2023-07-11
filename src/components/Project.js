@@ -12,7 +12,7 @@ export default function Project(props) {
       </div>
       <a href={props.githubLink} alt="Deployed Github" className="githubDeploy">
         <img
-          src="../../../github (2).png"
+          src={require("../images/github (2).png")}
           alt="Projects Github Deployment"
           className="githubLinkIcon"
         ></img>

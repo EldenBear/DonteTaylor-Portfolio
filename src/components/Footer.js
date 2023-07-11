@@ -9,7 +9,7 @@ export default function Footer() {
           href="https://github.com/EldenBear"
           className="footer-image-container"
         >
-          <img src="../../github (1).png" alt="github" className="logo"></img>
+          <img src={require("../images/github (1).png")} alt="github" className="logo"></img>
         </a>
 
         <a
@@ -17,7 +17,7 @@ export default function Footer() {
           className="footer-image-container"
         >
           <img
-            src="../../linkedin (1).png"
+            src= {require("../images/linkedin (1).png")}
             alt="linkedin"
             className="logo"
           ></img>
@@ -28,7 +28,7 @@ export default function Footer() {
           className="footer-image-container"
         >
           <img
-            src="../../9567026_stack_overflow_development_icon.png"
+            src={require("../images/9567026_stack_overflow_development_icon.png")}
             alt="Stack Overflow"
             className="logo"
           ></img>
