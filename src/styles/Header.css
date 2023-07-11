@@ -14,6 +14,7 @@
     border-bottom: 5px solid gold;
     background: #569fef;
     display: inline-flex;
+    flex-direction: column;
     width: 100%;
     justify-content: space-between;
 }

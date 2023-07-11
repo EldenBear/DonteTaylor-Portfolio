@@ -63,3 +63,14 @@
 .githubLinkIcon:hover{
     filter: invert(69%) sepia(69%) saturate(503%) hue-rotate(352deg) brightness(98%) contrast(103%);
 }
+
+@media screen and (max-width: 825px){
+.project a img{
+    max-width: 350px;
+    max-height: 200px;
+}
+
+.projectDescription{
+    font-size: 16px;
+}
+}
