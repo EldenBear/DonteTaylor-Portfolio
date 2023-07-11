@@ -1,14 +1,26 @@
 {
   "files": {
     "main.css": "/DonteTaylor-Portfolio/static/css/main.36020b85.css",
-    "main.js": "/DonteTaylor-Portfolio/static/js/main.748880a8.js",
+    "main.js": "/DonteTaylor-Portfolio/static/js/main.e3a33f6b.js",
+    "static/media/WPScreenshot.png": "/DonteTaylor-Portfolio/static/media/WPScreenshot.34c28142c64db09329a7.png",
+    "static/media/JWwelcome.png": "/DonteTaylor-Portfolio/static/media/JWwelcome.a1c54e5fef634fec8eb3.png",
+    "static/media/Weather-App-SS.png": "/DonteTaylor-Portfolio/static/media/Weather-App-SS.ff062f1466f022896c3c.png",
+    "static/media/prof-pic1_thumbnail.png": "/DonteTaylor-Portfolio/static/media/prof-pic1_thumbnail.72a54d39505f460c74ee.png",
+    "static/media/NewQuizScreenshot.png": "/DonteTaylor-Portfolio/static/media/NewQuizScreenshot.d1471d4437527f5e6037.png",
+    "static/media/PWgen-SS.png": "/DonteTaylor-Portfolio/static/media/PWgen-SS.ad1784b45b6dc66fea1c.png",
+    "static/media/tech-blogSC2.png": "/DonteTaylor-Portfolio/static/media/tech-blogSC2.8cd194eff7ba079aaa5b.png",
+    "static/media/github (1).png": "/DonteTaylor-Portfolio/static/media/github (1).caeb9ff86e1c3e87612e.png",
+    "static/media/linkedin (1).png": "/DonteTaylor-Portfolio/static/media/linkedin (1).fafc97a401eb6a1d71f0.png",
     "static/media/BackgroundPort.webp": "/DonteTaylor-Portfolio/static/media/BackgroundPort.036ea4d3cf1146c7708f.webp",
+    "static/media/9567026_stack_overflow_development_icon.png": "/DonteTaylor-Portfolio/static/media/9567026_stack_overflow_development_icon.5a10d1a29c14f214b1fe.png",
+    "static/media/cv.png": "/DonteTaylor-Portfolio/static/media/cv.b9e67ed8393429be2d2d.png",
+    "static/media/github (2).png": "/DonteTaylor-Portfolio/static/media/github (2).05f6c17b8cd04c28456f.png",
     "index.html": "/DonteTaylor-Portfolio/index.html",
     "main.36020b85.css.map": "/DonteTaylor-Portfolio/static/css/main.36020b85.css.map",
-    "main.748880a8.js.map": "/DonteTaylor-Portfolio/static/js/main.748880a8.js.map"
+    "main.e3a33f6b.js.map": "/DonteTaylor-Portfolio/static/js/main.e3a33f6b.js.map"
   },
   "entrypoints": [
     "static/css/main.36020b85.css",
-    "static/js/main.748880a8.js"
+    "static/js/main.e3a33f6b.js"
   ]
 }
