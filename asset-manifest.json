@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DonteTaylor-Portfolio/static/css/main.36020b85.css",
+    "main.js": "/DonteTaylor-Portfolio/static/js/main.e7943562.js",
+    "static/media/BackgroundPort.webp": "/DonteTaylor-Portfolio/static/media/BackgroundPort.036ea4d3cf1146c7708f.webp",
+    "index.html": "/DonteTaylor-Portfolio/index.html",
+    "main.36020b85.css.map": "/DonteTaylor-Portfolio/static/css/main.36020b85.css.map",
+    "main.e7943562.js.map": "/DonteTaylor-Portfolio/static/js/main.e7943562.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36020b85.css",
+    "static/js/main.e7943562.js"
+  ]
+}
