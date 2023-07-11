@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DonteTaylor-Portfolio/static/css/main.5d1efec2.css",
+    "main.css": "/DonteTaylor-Portfolio/static/css/main.38da379e.css",
     "main.js": "/DonteTaylor-Portfolio/static/js/main.e6bb8da1.js",
     "static/media/WPScreenshot.png": "/DonteTaylor-Portfolio/static/media/WPScreenshot.34c28142c64db09329a7.png",
     "static/media/JWwelcome.png": "/DonteTaylor-Portfolio/static/media/JWwelcome.a1c54e5fef634fec8eb3.png",
@@ -17,11 +17,11 @@
     "static/media/cv.png": "/DonteTaylor-Portfolio/static/media/cv.b9e67ed8393429be2d2d.png",
     "static/media/github (2).png": "/DonteTaylor-Portfolio/static/media/github (2).05f6c17b8cd04c28456f.png",
     "index.html": "/DonteTaylor-Portfolio/index.html",
-    "main.5d1efec2.css.map": "/DonteTaylor-Portfolio/static/css/main.5d1efec2.css.map",
+    "main.38da379e.css.map": "/DonteTaylor-Portfolio/static/css/main.38da379e.css.map",
     "main.e6bb8da1.js.map": "/DonteTaylor-Portfolio/static/js/main.e6bb8da1.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d1efec2.css",
+    "static/css/main.38da379e.css",
     "static/js/main.e6bb8da1.js"
   ]
 }
