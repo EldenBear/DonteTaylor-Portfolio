@@ -1,25 +1,28 @@
-import React, { useState } from 'react';
-import Header from './Header';
-import Contact from './pages/Contact';
-import About from './pages/About';
-import Portfolio from './pages/Portfolio';
-import Resume from './pages/Resume';
-import Footer from './Footer';
+import React, { useState } from "react";
+import Header from "./Header";
+import Contact from "./pages/Contact";
+import About from "./pages/About";
+import Portfolio from "./pages/Portfolio";
+import Resume from "./pages/Resume";
+import Footer from "./Footer";
 
 export default function Container() {
-  const [currentPage, setCurrentPage] = useState('About');
-
+  const [currentPage, setCurrentPage] = useState("About");
+  /*Component that handles page switches*/
   const renderPage = () => {
-    if (currentPage === 'About') {
-      return <About />;
+    switch (currentPage) {
+      case "About":
+        return <About />;
+
+      case "Contact":
+        return <Contact />;
+
+      case "Portfolio":
+        return <Portfolio />;
+
+      default:
+        return <Resume />;
     }
-    if (currentPage === 'Contact') {
-      return <Contact />;
-    }
-    if (currentPage === 'Portfolio') {
-      return <Portfolio />;
-    }
-    return <Resume />;
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
