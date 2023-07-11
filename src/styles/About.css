@@ -32,7 +32,7 @@
 }
 
 .body{
-    min-height: calc(100vh - 125px - 96px);
+    min-height: calc(100vh - 125px - 142px);
 }
 
 @media screen and (max-width: 825px){
