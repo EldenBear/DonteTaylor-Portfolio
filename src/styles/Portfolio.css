@@ -44,3 +44,22 @@
     background-color: #569fef;
     margin: 30px auto;
 }
+
+.githubDeploy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+
+.githubLinkIcon{
+    width: 50px;
+    height: 50px;
+}
+
+.githubLinkIcon:hover{
+    filter: invert(69%) sepia(69%) saturate(503%) hue-rotate(352deg) brightness(98%) contrast(103%);
+}
