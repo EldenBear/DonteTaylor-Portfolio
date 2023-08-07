@@ -7,6 +7,16 @@ export default function Portfolio() {
     <div className="body">
       <h1 id="portfolioText">Portfolio</h1>
       <Project
+        name={"Body and Mind"}
+        src={require("../../images/BodyAndMindSC.png")}
+        link={"https://body--mind-424f753a39d8.herokuapp.com/"}
+        githubLink={"https://github.com/EldenBear/Body_and_Mind"}
+        description={
+          "Welcome to the Body and Mind - A revolutionary wellness blog application designed to empower individuals on their journey towars holistic wellbeing, drawing inspiration from the WARIOR MONK MENTALITY. This application is a digital sanctuary where users can explore, learn and engage with content that nourishes both their physical bodies and their inner selves. Body and Mind is centered around the idea that true wellness encompasses the harmony of body, mind and spirit and recognizes the profound impact of the environment on an indivudal's overall wellbeing."
+        }
+      />
+
+      <Project
         name={"JabberWocky"}
         src={require("../../images/JWwelcome.png")}
         link={"https://boiling-mountain-88128.herokuapp.com/"}
