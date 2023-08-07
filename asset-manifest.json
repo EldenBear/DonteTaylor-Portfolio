@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/DonteTaylor-Portfolio/static/css/main.38da379e.css",
-    "main.js": "/DonteTaylor-Portfolio/static/js/main.e6bb8da1.js",
+    "main.js": "/DonteTaylor-Portfolio/static/js/main.903a8f37.js",
     "static/media/WPScreenshot.png": "/DonteTaylor-Portfolio/static/media/WPScreenshot.34c28142c64db09329a7.png",
+    "static/media/BodyAndMindSC.png": "/DonteTaylor-Portfolio/static/media/BodyAndMindSC.09db2ab5b6961021fa16.png",
     "static/media/JWwelcome.png": "/DonteTaylor-Portfolio/static/media/JWwelcome.a1c54e5fef634fec8eb3.png",
     "static/media/Weather-App-SS.png": "/DonteTaylor-Portfolio/static/media/Weather-App-SS.ff062f1466f022896c3c.png",
     "static/media/prof-pic1_thumbnail.png": "/DonteTaylor-Portfolio/static/media/prof-pic1_thumbnail.72a54d39505f460c74ee.png",
@@ -18,10 +19,10 @@
     "static/media/github (2).png": "/DonteTaylor-Portfolio/static/media/github (2).05f6c17b8cd04c28456f.png",
     "index.html": "/DonteTaylor-Portfolio/index.html",
     "main.38da379e.css.map": "/DonteTaylor-Portfolio/static/css/main.38da379e.css.map",
-    "main.e6bb8da1.js.map": "/DonteTaylor-Portfolio/static/js/main.e6bb8da1.js.map"
+    "main.903a8f37.js.map": "/DonteTaylor-Portfolio/static/js/main.903a8f37.js.map"
   },
   "entrypoints": [
     "static/css/main.38da379e.css",
-    "static/js/main.e6bb8da1.js"
+    "static/js/main.903a8f37.js"
   ]
 }
